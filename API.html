@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Calls</title>
+
+    <link rel="stylesheet" href="./API.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
+</head>
+<body>
+<div class="buttons">
+<button onclick="SolveCors()" type="button" id="fetchrecord" class="btn btn-primary">Fetch all records</button>
+<div>
+<input type="number" min="0" Placeholder="Insert ID" id="recordinput" />
+<button type="button" id="insertrecord" class="btn btn-success">Fetch a Single Record</button>
+</div>
+<button type="button" class="btn btn-warning">Insert Data into the table</button>
+<button type="button" id="getpatrecord" class="btn btn-danger">Get columns with particular string</button>
+  </div>
+
+<br>
+
+ <table class="table" id="Citytable">
+  <thead>
+    <tr class="table-primary">
+     <td><input class="inputfields" placeholder="City" id="city" type="text" ></td>
+     <td><input class="inputfields" placeholder="State" id="state" type="text" ></td>
+     <td><input class="inputfields" placeholder="Location" id="loc" type="text" ></td>
+     <td><input class="inputfields" placeholder="Pincode" id="pin" type="text" ></td>
+     <td><input class="inputfields" placeholder="Area_SqKm" id="area" type="text" ></td>
+     <td><input class="inputfields" placeholder="Cricket Stadium" id="cric" type="text" ></td>
+
+    </tr>
+  </thead>
+  <tbody id="tablerows">
+    
+  </tbody>
+
+</table>
+
+<div id="citydata"></div>
+</body>
+
+<script src="./API.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+</html> 

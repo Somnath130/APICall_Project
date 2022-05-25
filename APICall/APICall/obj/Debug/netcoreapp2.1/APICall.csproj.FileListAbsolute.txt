@@ -1,0 +1,14 @@
+D:\Cyber Group\API_Assignment\APICall\APICall\bin\Debug\netcoreapp2.1\APICall.deps.json
+D:\Cyber Group\API_Assignment\APICall\APICall\bin\Debug\netcoreapp2.1\APICall.runtimeconfig.json
+D:\Cyber Group\API_Assignment\APICall\APICall\bin\Debug\netcoreapp2.1\APICall.runtimeconfig.dev.json
+D:\Cyber Group\API_Assignment\APICall\APICall\bin\Debug\netcoreapp2.1\APICall.dll
+D:\Cyber Group\API_Assignment\APICall\APICall\bin\Debug\netcoreapp2.1\APICall.pdb
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.csprojAssemblyReference.cache
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.csproj.CoreCompileInputs.cache
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.RazorAssemblyInfo.cache
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.RazorAssemblyInfo.cs
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.AssemblyInfoInputs.cache
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.AssemblyInfo.cs
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.RazorTargetAssemblyInfo.cache
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.dll
+D:\Cyber Group\API_Assignment\APICall\APICall\obj\Debug\netcoreapp2.1\APICall.pdb
